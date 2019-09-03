@@ -2,8 +2,7 @@
 Estimate PM2.5/PM10 from satellite imagery
 
 
-## About
-This repo is currently under construction.
+**Note: This repo is under construction.**
 
 ## Notes
 
