@@ -14,7 +14,10 @@ There are currently two case study, one based on Landsat-8 satellite data and th
 
 
 
-## Directly PM2.5/PM10 estimation from TOA reflectance
+## Directly PM2.5/PM10 estimation from TOA reflectance using Zhuhai-1 hyperspectral data
+
+**To convert Zhuhai-1 hyperspectral data to TOA reflectance, please refer to:**
+https://github.com/stop68/Orbita-Hyperspectral-Imagery-to-Top-of-Atmosphere-Reflectance
 
 For this method, we need the following data to build the model
 - ground truth or site-based PM2.5/PM10 data (as label)
