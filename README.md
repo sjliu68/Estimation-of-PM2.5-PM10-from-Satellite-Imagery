@@ -9,8 +9,7 @@ There are currently two case study, one based on Landsat-8 satellite data and th
 
 ## Based on 6S model to estimate AOD
 
-- First, one needs to create a lookup table (LUT) from the 6S model
-This Python version of 6S emulator is strongly recommended: https://github.com/samsammurphy/6S_emulator
+- First, one needs to create a lookup table (LUT) from the 6S model. This Python version of 6S emulator is strongly recommended: https://github.com/samsammurphy/6S_emulator
 - After creating the lookup table, run **estimate_aod.py** based on your Landsat-8 data
 
 
