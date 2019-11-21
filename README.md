@@ -42,7 +42,7 @@ For this method, we need the following data to build the model
 - a large amount of satellite imagery representing TOA reflectance (as variables)
 
 After collection of the data, 
-- [x] run *extract_values.py* to create a excel table, containing the value of PM2.5 of each record and its corresponding satellite image *completed*
+- [x] run *extract_points.py* to create a excel table, containing the value of PM2.5 of each record and its corresponding satellite image *completed*
 - [ ] *train.py* to train a model *todo*
 - [x] *demo_predict.py* to estimate PM2.5 based on the input image based on the pretrained model *completed*
 
