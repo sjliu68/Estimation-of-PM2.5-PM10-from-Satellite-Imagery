@@ -32,9 +32,11 @@ Here are the parameters availble for inference, you may find them in the header 
 The input image is Zhuhai-1 TOA reflectance hyperspectral image in 32 bands.
 
 **To convert the raw Zhuhai-1 hyperspectral data to TOA reflectance, please refer to:**
+
 https://github.com/stop68/Orbita-Hyperspectral-Imagery-to-Top-of-Atmosphere-Reflectance
 
 ### Training
+
 For this method, we need the following data to build the model
 - ground truth or site-based PM2.5/PM10 data (as label)
 - a large amount of satellite imagery representing TOA reflectance (as variables)
@@ -46,6 +48,7 @@ After collection of the data,
 
 
 ## Based on 6S model to estimate AOD
+
 *Note: this part is in experiment*
 
 - First, one needs to create a lookup table (LUT) from the 6S model. This Python version of 6S emulator is strongly recommended: https://github.com/samsammurphy/6S_emulator
