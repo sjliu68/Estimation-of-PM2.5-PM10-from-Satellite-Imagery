@@ -7,6 +7,9 @@ There are currently two case study, one based on Landsat-8 satellite data and th
 
 ## Directly estimate PM2.5/PM10 from TOA reflectance using Zhuhai-1 data
 ### Using the pretrained model to estimate PMx concentration
+
+
+To use the pretrained model in *demo_predict.py*, you may change the arguments directly in the script or use the inference below (plz change inference to True before usage):
 ```bash
 python demo_predict.py --im 'G:/orbita/data_32band/HAM1_20181006215942_0013_L1_MSS_CCD1.tif' --model model.h5 --m 10 --ang1 0.4 --ang2 50.1 --lat 28.8 --lng 115.6
 ```
