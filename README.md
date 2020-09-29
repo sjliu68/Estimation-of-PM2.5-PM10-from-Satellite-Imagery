@@ -33,7 +33,7 @@ The input image is Zhuhai-1 TOA reflectance hyperspectral image in 32 bands.
 
 **To convert the raw Zhuhai-1 hyperspectral data to TOA reflectance, please refer to:**
 
-https://github.com/stop68/Orbita-Hyperspectral-Imagery-to-Top-of-Atmosphere-Reflectance
+https://github.com/sjliu68/Orbita-Hyperspectral-Imagery-to-Top-of-Atmosphere-Reflectance
 
 ### Training
 
